@@ -2,7 +2,7 @@
 
 ## Video Demonstration
 
-https://www.youtube.com/watch?v=UUZP2kvPYYw
+I give a video demonstration here: https://www.youtube.com/watch?v=UUZP2kvPYYw
 
 ## Explanation
 
